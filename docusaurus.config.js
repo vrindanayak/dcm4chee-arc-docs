@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'vrindanayak', // Usually your GitHub org/user name.
   projectName: 'dcm4chee-arc-docs', // Usually your repo name.
-  deploymentBranch: "gh-pages"
+  deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
