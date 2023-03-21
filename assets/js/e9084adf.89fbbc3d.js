@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdcm_4_chee_arc_docs=self.webpackChunkdcm_4_chee_arc_docs||[]).push([[6408],{2481:c=>{c.exports=JSON.parse('{"label":"hola","permalink":"/dcm4chee-arc-docs/blog/tags/hola","allTagsPath":"/dcm4chee-arc-docs/blog/tags","count":1}')}}]);
